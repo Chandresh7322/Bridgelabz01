@@ -1,0 +1,95 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "SumUntilNonPositive",
+            "request": "launch",
+            "mainClass": "SumUntilNonPositive",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "SumUntilZero",
+            "request": "launch",
+            "mainClass": "SumUntilZero",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "CountdownFor",
+            "request": "launch",
+            "mainClass": "CountdownFor",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "CountdownWhile",
+            "request": "launch",
+            "mainClass": "CountdownWhile",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "SpringSeason",
+            "request": "launch",
+            "mainClass": "SpringSeason",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "NumberCheck",
+            "request": "launch",
+            "mainClass": "NumberCheck",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "VotingEligibility",
+            "request": "launch",
+            "mainClass": "VotingEligibility",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumberSum",
+            "request": "launch",
+            "mainClass": "NaturalNumberSum",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "LargestCheck",
+            "request": "launch",
+            "mainClass": "LargestCheck",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "SmallestCheck",
+            "request": "launch",
+            "mainClass": "SmallestCheck",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "type": "java",
+            "name": "DivisibleByFive",
+            "request": "launch",
+            "mainClass": "DivisibleByFive",
+            "projectName": "Bridgelabz 03_a3389182"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
