@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "sumofnum",
+            "request": "launch",
+            "mainClass": "java_array.sumofnum",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

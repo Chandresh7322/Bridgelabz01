@@ -1,4 +1,4 @@
-package Java_Programming_elements;
+package java_programming_elements;
 class earth_volume {
 
     public static double kmToMiles(double km) {
