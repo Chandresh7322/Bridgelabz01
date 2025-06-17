@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayIndexDemo",
+            "request": "launch",
+            "mainClass": "ArrayIndexDemo",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "SubstringComparison",
+            "request": "launch",
+            "mainClass": "SubstringComparison",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "CompareTwoString",
+            "request": "launch",
+            "mainClass": "CompareTwoString",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "AllFactors",
+            "request": "launch",
+            "mainClass": "AllFactors",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
             "name": "sumofnum",
             "request": "launch",
             "mainClass": "java_array.sumofnum",
