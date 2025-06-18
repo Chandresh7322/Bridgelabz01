@@ -2,6 +2,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringReversal",
+            "request": "launch",
+            "mainClass": "StringReversal",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "PrimeChecker",
+            "request": "launch",
+            "mainClass": "PrimeChecker",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "FactorialCalculator",
+            "request": "launch",
+            "mainClass": "FactorialCalculator",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddChecker",
+            "request": "launch",
+            "mainClass": "EvenOddChecker",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "NumberAnalysis",
+            "request": "launch",
+            "mainClass": "NumberAnalysis",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "TrigonometryCalculator",
+            "request": "launch",
+            "mainClass": "TrigonometryCalculator",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "SumOfNaturalNumbers",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "umOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "umOfNaturalNumbers",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "HandshakeCalculator",
+            "request": "launch",
+            "mainClass": "HandshakeCalculator",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "SimpleInterestCalculator",
+            "request": "launch",
+            "mainClass": "SimpleInterestCalculator",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "ChocolateDivider",
+            "request": "launch",
+            "mainClass": "ChocolateDivider",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "ChocolateDivider",
+            "request": "launch",
+            "mainClass": "java_method.ChocolateDivider",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
             "name": "ArrayIndexDemo",
             "request": "launch",
             "mainClass": "ArrayIndexDemo",
