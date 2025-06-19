@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "DateArithmetic",
+            "request": "launch",
+            "mainClass": "DateArithmetic",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "TimeZone",
+            "request": "launch",
+            "mainClass": "TimeZone",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
             "name": "StringReversal",
             "request": "launch",
             "mainClass": "StringReversal",
