@@ -1,4 +1,3 @@
-package java_array;
 import java.util.Scanner;
 public class sumofnum {
     public static void main(String[] args) {

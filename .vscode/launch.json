@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ToggleCase",
+            "request": "launch",
+            "mainClass": "Java_HandlingString.ToggleCase",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "Java_HandlingString.RemoveDuplicates",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Java_HandlingString.Palindrome",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Java_HandlingString.ReverseString",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
+            "name": "CountNum",
+            "request": "launch",
+            "mainClass": "Java_HandlingString.CountNum",
+            "projectName": "BridgeLabz-SIPP-Training_396918f7"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "Calculator",
