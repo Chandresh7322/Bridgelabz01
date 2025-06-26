@@ -1,37 +1,18 @@
 package OOPS;
 class BankAccount {
-    String accountHolder;
-    String accountNumber;
+    String accountHolderName;
+    int accountNumber;
     double balance;
 
-    void deposit(double amount) {
-        balance += amount;
-        System.out.println("₹" + amount + " deposited.");
+    public BankAccount(String accountHolderName, int accountNumber, double balance) {
+        this.accountHolderName = accountHolderName;
+        this.accountNumber = accountNumber;
+        this.balance = balance;
+
+        System.out.println("accountHolderName" +accountHolderName);
+        System.out.print("accountNumber" +accountNumber);
+        System.out.println("balance" +balance);
     }
 
-    void withdraw(double amount) {
-        if (amount <= balance) {
-            balance -= amount;
-            System.out.println("₹" + amount + " withdrawn.");
-        } else {
-            System.out.println("Insufficient balance.");
-        }
+   
     }
-
-    void displayBalance() {
-        System.out.println("Account Holder: " + accountHolder);
-        System.out.println("Account Number: " + accountNumber);
-        System.out.println("Current Balance: ₹" + balance);
-    }
-
-    public static void main(String[] args) {
-        BankAccount acc = new BankAccount();
-        acc.accountHolder = "Priya Sharma";
-        acc.accountNumber = "SB1001";
-        acc.balance = 5000.00;
-
-        acc.deposit(1500);
-        acc.withdraw(2000);
-        acc.displayBalance();
-    }
-}
