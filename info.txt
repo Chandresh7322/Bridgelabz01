@@ -1,0 +1,9 @@
+git me pehle add all file ke liye command hai
+>>>>git add .
+
+phir commit krna hai 
+>>>>git commit -m "comment"
+
+phir push
+>>>>git push
+
